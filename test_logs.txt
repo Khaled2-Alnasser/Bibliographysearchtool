@@ -1,0 +1,14 @@
+Test Case 1 - Search by Author (valid):
+Input: "Henri"
+Expected Output: Display full BibTeX entry
+Result: PASSED
+
+Test Case 2 - Search by Author (not found):
+Input: "Shakespeare"
+Expected Output: "No entry found"
+Result: PASSED
+
+Test Case 3 - Display Harvard Style:
+Input: Entry ID = Henri2017
+Expected Output: Proper UWE Harvard-style formatted citation
+Result: PASSED
