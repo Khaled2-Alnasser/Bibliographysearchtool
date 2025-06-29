@@ -1,7 +1,5 @@
 UFMFGT-15-1 RESIT MINI COURSEWORK
-Student Name: Ali khan
-Student ID:
-Date: 
+
 
 Project: Bibliography Search Tool (Resit Coursework)
 
